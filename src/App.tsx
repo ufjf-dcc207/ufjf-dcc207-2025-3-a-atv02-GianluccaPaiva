@@ -7,7 +7,7 @@ function App() {
       <h2>oi</h2>
       <Disciplina/>
     </>
-  ); 
+  );
 }
 
 export default App
